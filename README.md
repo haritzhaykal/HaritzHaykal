@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Muhammad Naqyuddin**, a first-year **Data Engineering** student at **Universiti Teknologi Malaysia**.  
+I'm **Haritz Haykal bin Nazrul Hisham**, a first-year **Data Engineering** student at **Universiti Teknologi Malaysia**.  
 I have a solid foundation in **Python** and **C++** and am passionate about learning and building projects that solve real-world problems with data.
 
 ---
