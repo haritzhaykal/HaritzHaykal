@@ -7,7 +7,23 @@
 
 - 📫 How to reach me **ritz.haykal@gmail.com**
 
--  My E-Portfolio: **file:///C:/Users/user/Desktop/freelancer-portfolio-template/index.html**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Link</title>
+</head>
+<body>
+    <h1>Download Index File</h1>
+    <p>
+        <a href="https://drive.google.com/file/d/1fxbqrM-rS6vPaLQ87phqMDjHSM9yDTFO/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+            Click here to access the file
+        </a>
+    </p>
+</body>
+</html>
+
 
 
 - <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
