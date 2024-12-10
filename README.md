@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ritz.haykal@gmail.com**
 
--  My E-Portfolio: <a href="file:///C:/Users/user/Desktop/freelancer-portfolio-template/index.html" target="_blank">Open My Portfolio</a>
+-  My E-Portfolio: **file:///C:/Users/user/Desktop/freelancer-portfolio-template/index.html**
 
 
 - <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Chill_guy_original_artwork.jpg/220px-Chill_guy_original_artwork.jpg"  />
