@@ -12,17 +12,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clickable Link</title>
+    <title>My ePortfolio</title>
 </head>
 <body>
-    <h1>Download Index File</h1>
+    <h1>Welcome to My ePortfolio</h1>
     <p>
-        <a href="https://drive.google.com/file/d/1fxbqrM-rS6vPaLQ87phqMDjHSM9yDTFO/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-            Click here to access the file
+        <a href="https://haritzhaykal.github.io" target="_blank" rel="noopener noreferrer">
+            Click here to visit My ePortfolio
         </a>
     </p>
 </body>
 </html>
+
 
 
 
